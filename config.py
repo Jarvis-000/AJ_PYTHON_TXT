@@ -8,7 +8,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "7521089253:AAGHqiw4e7ewdc1qt7eonChimNf-
 
 PASS_DB = int(os.environ.get("PASS_DB", "721"))
 
-OWNER = int(os.environ.get("6348445990", ))
+OWNER = int(os.environ.get("OWNER", "6348445990" ))
 
 LOG = ,
 
